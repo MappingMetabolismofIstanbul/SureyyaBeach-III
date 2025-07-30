@@ -141,7 +141,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: '<iframe frameborder="0" class="juxtapose" width="100%" height="1033" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=88f49656-c917-11ef-9397-d93975fe8866"></iframe>1982-2022 yılları arası Maltepe Dolgu Alanı değişimi ile yeri değişen Bakireler Anıtı/ İstanbul Urban Database 1982 Uydu ve Google Earth 2022 Uydu görüntülü kullanılarak elde edilmiştir.',
+            description: '<iframe frameborder="0" class="juxtapose" width="100%" height="345" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=d5234cb6-6d45-11f0-bb24-0936e1cb08fb"></iframe>1982-2022 yılları arası Maltepe Dolgu Alanı değişimi ile yeri değişen Bakireler Anıtı/ İstanbul Urban Database 1982 Uydu ve Google Earth 2022 Uydu görüntülü kullanılarak elde edilmiştir.',
             location: {
                 center: [ 29.11977812087005,40.925028818840396],
                 zoom: 16,
