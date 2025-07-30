@@ -56,7 +56,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/6cVrWnjq/2.png',
+            image: 'https://i.ibb.co/K8YCRC2/dol1.png',
             description: '',
             location: {
                 center: [ 29.12420879460502,40.92681852967929],
@@ -86,7 +86,34 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/6c79Y3KB/MEF-AAP-027-BAP-2025-05-22-13-27-42.png',
+            image: 'https://i.ibb.co/R4Hk8BFk/dol2.png',
+            description: '',
+            location: {
+                center: [ 29.11977812087005,40.925028818840396],
+                zoom: 17,
+                pitch: 0,
+                bearing: -5,
+                speed: 1,
+                curve: 2
+                // flyTo additional controls-
+                // These options control the flight curve, making it move
+                // slowly and zoom out almost completely before starting
+                // to pan.
+                //speed: 2, // make the flying slow
+                //curve: 0, // change the speed at which it zooms out
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+          {
+            id: '3',
+            alignment: 'left',
+            hidden: false,
+            title: '',
+            image: 'https://i.ibb.co/TMGZf81N/dol3.png',
             description: '',
             location: {
                 center: [ 29.11977812087005,40.925028818840396],
@@ -109,7 +136,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: '3',
+            id: '4',
             alignment: 'centered',
             hidden: false,
             title: '',
